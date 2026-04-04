@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishi5105-kashyap
+- 👋 Hi, I’m @Rishi5105-kashyap. You can call me --> Rishi
 - 👀 I’m interested in coding projects, hackathons.
 - 🌱 I’m creative minded,trying to get better
 - 💞️ I’m looking to collaborate on innovative coding projects and open-source contributions.
